@@ -1,0 +1,319 @@
+{
+  "project_info": {
+    "project_number": "279709567459",
+    "firebase_url": "https://fir-5d73a.firebaseio.com",
+    "project_id": "fir-5d73a",
+    "storage_bucket": "fir-5d73a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279709567459:android:b7e0c2ba2a5b95e3",
+        "android_client_info": {
+          "package_name": "com.example.cyronemon.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279709567459-vj5caqm2vkpl8hf70u31mb9pnn981nn4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cyronemon.firebase",
+            "certificate_hash": "1d02a377173b6a0a27fd81aa47121690bebc0597"
+          }
+        },
+        {
+          "client_id": "279709567459-sr0da17t6tm8dqq6mm4082jnu49ags8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtADXM2BH3xehPbSjPYd13L4K-7X9ifi8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279709567459-sr0da17t6tm8dqq6mm4082jnu49ags8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279709567459:android:519df97bd07939b0",
+        "android_client_info": {
+          "package_name": "com.example.cyronemon.testproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279709567459-4m9atfgp7s8srp90dtk111dhdiafhsl3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cyronemon.testproj",
+            "certificate_hash": "1d02a377173b6a0a27fd81aa47121690bebc0597"
+          }
+        },
+        {
+          "client_id": "279709567459-sr0da17t6tm8dqq6mm4082jnu49ags8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtADXM2BH3xehPbSjPYd13L4K-7X9ifi8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279709567459-sr0da17t6tm8dqq6mm4082jnu49ags8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279709567459:android:bbbd39b2db89c9d6",
+        "android_client_info": {
+          "package_name": "com.example.cyronemon.final1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279709567459-4d7k0udfmnomnujarbsgk2gvdrbemof1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cyronemon.final1",
+            "certificate_hash": "1d02a377173b6a0a27fd81aa47121690bebc0597"
+          }
+        },
+        {
+          "client_id": "279709567459-sr0da17t6tm8dqq6mm4082jnu49ags8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtADXM2BH3xehPbSjPYd13L4K-7X9ifi8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279709567459-sr0da17t6tm8dqq6mm4082jnu49ags8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279709567459:android:f455582d1b93211f",
+        "android_client_info": {
+          "package_name": "com.example.cyronemon.nightclubbkk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279709567459-c25fnq1tlvi0rnmf86jmd9i34ph7eoqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cyronemon.nightclubbkk",
+            "certificate_hash": "1d02a377173b6a0a27fd81aa47121690bebc0597"
+          }
+        },
+        {
+          "client_id": "279709567459-sr0da17t6tm8dqq6mm4082jnu49ags8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtADXM2BH3xehPbSjPYd13L4K-7X9ifi8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279709567459-sr0da17t6tm8dqq6mm4082jnu49ags8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279709567459:android:7526dd19c19d4444",
+        "android_client_info": {
+          "package_name": "com.example.cyronemon.nightclubbkk1_0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279709567459-40smvop3oascpm9sortrf4silh99b6u8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cyronemon.nightclubbkk1_0",
+            "certificate_hash": "1d02a377173b6a0a27fd81aa47121690bebc0597"
+          }
+        },
+        {
+          "client_id": "279709567459-sr0da17t6tm8dqq6mm4082jnu49ags8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtADXM2BH3xehPbSjPYd13L4K-7X9ifi8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279709567459-sr0da17t6tm8dqq6mm4082jnu49ags8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279709567459:android:4b8b5e9b9c6ef706",
+        "android_client_info": {
+          "package_name": "com.example.first.nightclubbkk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279709567459-qa21mvak7gospqcf3juril5g5mc391bi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.first.nightclubbkk",
+            "certificate_hash": "1d02a377173b6a0a27fd81aa47121690bebc0597"
+          }
+        },
+        {
+          "client_id": "279709567459-sr0da17t6tm8dqq6mm4082jnu49ags8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtADXM2BH3xehPbSjPYd13L4K-7X9ifi8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279709567459-sr0da17t6tm8dqq6mm4082jnu49ags8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279709567459:android:9d81b487bb304285",
+        "android_client_info": {
+          "package_name": "com.example.cyronemon.nightclubbkk2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279709567459-nb4dmdvrsqn8eh472rplpi9o18f3jre5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cyronemon.nightclubbkk2",
+            "certificate_hash": "1d02a377173b6a0a27fd81aa47121690bebc0597"
+          }
+        },
+        {
+          "client_id": "279709567459-sr0da17t6tm8dqq6mm4082jnu49ags8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtADXM2BH3xehPbSjPYd13L4K-7X9ifi8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279709567459-sr0da17t6tm8dqq6mm4082jnu49ags8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

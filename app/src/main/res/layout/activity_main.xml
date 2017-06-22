@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.cyronemon.nightclubbkk2.MainActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg" />
+
+    <View
+        android:id="@+id/tintview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:alpha="0.2"
+        android:background="@color/colorAccent" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        >
+
+        <TextView
+            android:id="@+id/nightclubbkkheader"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nightclubs BKK"
+            android:layout_centerHorizontal="true"
+            android:textSize="55dp"
+            android:textColor="@color/white" />
+
+        <EditText
+            android:id="@+id/emailLogin"
+            android:layout_width="260dp"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:hint="Username"
+            android:textColor="@color/white"
+            android:textColorHint="@color/white"
+            android:layout_below="@+id/nightclubbkkheader"
+            android:backgroundTint="@color/colorPrimary"
+            android:fontFamily="sans-serif"/>
+
+        <EditText
+            android:id="@+id/passwordLogin"
+            android:layout_width="260dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/emailLogin"
+            android:fontFamily="sans-serif"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_marginTop="20dp"
+            android:inputType="textPassword"
+            android:hint="Password"
+            android:textColorHint="@color/white"
+            android:textColor="@color/white"
+            android:backgroundTint="@color/colorAccent" />
+
+        <Button
+            android:id="@+id/login_btn"
+            android:layout_width="260dp"
+            android:layout_height="wrap_content"
+            android:text="Login"
+            android:background="@color/colorAccent"
+            android:textColor="@color/white"
+            android:layout_marginTop="20dp"
+            android:layout_below="@id/passwordLogin"
+            android:layout_centerHorizontal="true"
+            android:onClick="signIn"
+            />
+
+        <Button
+            android:id="@+id/create_btn"
+            android:layout_width="260dp"
+            android:layout_height="wrap_content"
+            android:text="Register"
+            android:background="@color/colorAccent"
+            android:textColor="@color/white"
+            android:layout_marginTop="20dp"
+            android:layout_below="@id/login_btn"
+            android:onClick="creatAccount"
+            android:layout_centerHorizontal="true"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:layout_below="@id/create_btn"
+            android:id="@+id/devname"
+            />
+
+    </RelativeLayout>
+
+</RelativeLayout>
+
+    <!--<?xml version="1.0" encoding="utf-8"?>-->
+    <!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--xmlns:app="http://schemas.android.com/apk/res-auto"-->
+    <!--xmlns:tools="http://schemas.android.com/tools"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--tools:context="com.example.cyronemon.nightclubbkk1_0.MainActivity"-->
+    <!--android:orientation="vertical"-->
+    <!--android:layout_gravity="center_horizontal"-->
+    <!--android:layout_margin="18dp">-->
+
+    <!--<ImageView-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content" />-->
+
+    <!--<TextView-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="Nightlife BKK"-->
+    <!--android:gravity="center"-->
+    <!--tools:layout_editor_absoluteY="0dp"-->
+    <!--tools:layout_editor_absoluteX="8dp"-->
+    <!--android:textSize="65dp"-->
+    <!--android:layout_marginTop="10dp"-->
+    <!--android:id="@+id/nightclubbkkheader"-->
+    <!--/>-->
+
+    <!--<EditText-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--tools:layout_editor_absoluteY="0dp"-->
+    <!--tools:layout_editor_absoluteX="8dp"-->
+    <!--android:layout_gravity="center"-->
+    <!--android:hint="Email"-->
+    <!--android:layout_marginTop="100dp"-->
+    <!--android:inputType="textEmailAddress"-->
+    <!--android:id="@+id/emailLogin"-->
+    <!--/>-->
+
+    <!--<EditText-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--tools:layout_editor_absoluteY="0dp"-->
+    <!--tools:layout_editor_absoluteX="8dp"-->
+    <!--android:hint="Password"-->
+    <!--android:inputType="textPassword"-->
+    <!--android:layout_marginTop="30dp"-->
+    <!--android:layout_gravity="center"-->
+    <!--android:id="@+id/passwordLogin"-->
+    <!--/>-->
+
+    <!--<Button-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="Login"-->
+    <!--android:layout_gravity="center"-->
+    <!--android:layout_marginTop="40dp"-->
+    <!--android:onClick="signIn"-->
+    <!--/>-->
+
+    <!--<Button-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="Create Account"-->
+    <!--android:onClick="creatAccount"-->
+    <!--/>-->
+
+
+    <!--</LinearLayout>-->
